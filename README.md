@@ -1,4 +1,4 @@
-# APOBEC_mutagenesis_R-loops_and_TE
+# APOBEC mutagenesis in R-loops and in transposons
 
 This code is used for finding the mutation density (D_APOBEC) of the human APOBEC mutagenesis per target in R-loops and transposons.
 
